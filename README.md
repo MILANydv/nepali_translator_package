@@ -59,6 +59,7 @@ print(nepali_text_3)  # Output: "हामी साथी हौ"
 If you would like to contribute to the Nepali Translator Package, you are welcome to submit issues, feature requests, or pull requests on the GitHub repository: [https://github.com/MILANydv/nepali_translator_package.git] 
 
 **Support**
+
 <a href="https://www.buymeacoffee.com/ymilanproj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="210px"></a>
 
 
