@@ -11,7 +11,7 @@ setup(
     description='A package for translating Romanized English to Unicode Nepali',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your_username/nepali_translator_package',
+    url='https://github.com/MILANydv/nepali_translator_package.git',
     install_requires=[
         # No additional dependencies needed
     ],
